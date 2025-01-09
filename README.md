@@ -1,4 +1,4 @@
-## Banking System Mini Project Documentation
+# Banking System Mini Project Documentation
 
 ### Overview
 
@@ -10,7 +10,7 @@ This Python-based Bank Management System allows users to perform various banking
 * **Account Information:** Check account balances and view transaction history.
 * **Administrative Features:** View total deposits and the number of accounts.
 
-### Features
+## Features
 
 1. **Account Management:**
     - Open new accounts with unique account numbers and holder names.
@@ -95,7 +95,3 @@ Manages multiple accounts in the bank.
 ### Hackathon Participation
 
 This project was developed as part of Saylani's Mini Hackathon for AI-DS.
-
-## Comparison with the Original Code
-
-This documentation is similar to the original code, but it is more detailed and organized. It includes additional information about the project, such as the files, classes, methods, and how to use the system. It also provides more context about the transaction logging and the hackathon participation.
